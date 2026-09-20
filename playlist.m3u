@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Moj testni kanal" group-title="Moji kanali",Moj testni kanal
-stream.m3u8
 https://raw.githubusercontent.com/Senir12/Ip-tv/main/stream.m3u8
